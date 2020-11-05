@@ -1,2 +1,1 @@
-# AluraAspNet
-For studies purpose
+
